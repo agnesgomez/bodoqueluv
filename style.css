@@ -1,0 +1,26 @@
+body{
+    background-color: chocolate;
+}
+    
+h1{
+    font-family: 'Libre Baskerville', serif;
+
+    
+}
+p{
+   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 120px;
+    width: 60%;
+    padding-left: 300px;
+    font-size: medium;
+}
+h3{
+    width: 60%;
+    padding-left: 300px;
+}
+a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 60%;
+    padding-left: 490px;
+}

@@ -1,0 +1,15 @@
+body{
+    background: #264fd4ad;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 60%;
+    padding-left: 500px;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 120px;
+    width: 60%;
+    padding-left: 300px;
+    font-size: medium;
+}
